@@ -11,3 +11,5 @@ by Attune Intelligence. Served via GitHub Pages and referenced by the Intuit
 This repo is intentionally public so GitHub Pages can serve it for free. It
 contains only static, non-sensitive policy pages. It is consumed as a git
 submodule at `services/_terms` of the private `freds-data-orchestrator` repo.
+
+Build by Attune Intelligence for Fred's Plumbing.
